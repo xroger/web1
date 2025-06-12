@@ -1,0 +1,1 @@
+import{f as e,o as s,i as a}from"./index-B7ub3BEX.js";import{_ as o}from"./_plugin-vue_export-helper.BCo6x5W8.js";const t=o({__name:"myimage",setup:o=>(o,t)=>{const r=a;return s(),e(r,{class:""})}},[["__scopeId","data-v-cedf47b9"]]);export{t as default};
