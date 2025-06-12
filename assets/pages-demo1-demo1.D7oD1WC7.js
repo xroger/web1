@@ -1,0 +1,1 @@
+import{f as e,w as o,i as r,o as s,d as t}from"./index-DYAnklCj.js";import{_ as a}from"./_plugin-vue_export-helper.BCo6x5W8.js";const n=a({},[["render",function(a,n){const u=r;return s(),e(u,null,{default:o((()=>[t(" demo1 ")])),_:1})}]]);export{n as default};
